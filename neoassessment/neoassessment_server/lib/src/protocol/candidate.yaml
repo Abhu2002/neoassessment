@@ -1,0 +1,13 @@
+class: Candidate
+table: candidate
+fields:
+  first_name: String
+  last_name: String
+  email: String
+  dob : DateTime?
+  domain_id: int,parent=domain
+  experience: int
+  password: String
+  access_token: String?
+  phone: String?
+

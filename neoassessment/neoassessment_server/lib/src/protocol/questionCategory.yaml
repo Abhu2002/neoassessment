@@ -1,0 +1,6 @@
+class: QuestionCategory
+table: questioncategory
+fields:
+  domain_id: int, parent=domain
+  name: String,
+  description: String?

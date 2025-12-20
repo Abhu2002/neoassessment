@@ -1,0 +1,12 @@
+class: Question
+table: question
+fields:
+  domain_id: int,parent=domain
+  level_id: int,parent=level
+  question: String
+  question_category_id: int,parent=questioncategory
+  op1: String
+  op2: String
+  op3: String
+  op4: String
+  correct_op: String

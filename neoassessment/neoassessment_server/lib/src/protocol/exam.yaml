@@ -1,0 +1,10 @@
+class: Exam
+table: exams
+fields:
+  name: String
+  description: String?
+  domain_id: int, parent=domain
+  no_of_questions: int
+  level: int, parent=level
+  question_ids: List<int>?
+  passing_score: int

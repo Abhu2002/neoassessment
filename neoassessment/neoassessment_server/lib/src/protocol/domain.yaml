@@ -1,0 +1,5 @@
+class: Domain
+table: domain
+fields:
+  name: String
+  description: String

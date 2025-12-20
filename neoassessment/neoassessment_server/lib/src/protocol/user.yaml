@@ -1,0 +1,13 @@
+class: User
+table: users
+fields:
+  first_name: String
+  last_name: String
+  email: String
+  phone: String
+  dob: DateTime
+  domain_id: int, parent=domain
+  role_id: int, parent=role
+  experience: int
+  password: String
+  access_token: String?

@@ -1,0 +1,11 @@
+class: Response
+table: responses
+fields:
+  candidate_id: int, parent=candidate
+  exam_id: int, parent=exams
+  score: int?
+  assign_by: int?, parent=users
+  reviewed_by: int?, parent=users
+  q_ids: List<int>
+  response: List<String>
+  status: int?, parent=status
