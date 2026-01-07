@@ -146,7 +146,7 @@ flutter run
 - Pagination and search
 - Offline caching
 - Admin dashboard charts
-
+```
 
 
 🧑‍💻 Author
