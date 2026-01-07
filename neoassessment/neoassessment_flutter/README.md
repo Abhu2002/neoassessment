@@ -149,9 +149,9 @@ flutter run
 ```
 
 
-🧑‍💻 Author
+### 🧑‍💻 Author
 
-Abhay Kapadnis
-Flutter Developer
-📱 Cross-platform Application Development
-📦 BLoC • Clean Architecture • REST APIs
+**Abhay Kapadnis**  
+Flutter Developer  
+📱 Cross-platform Application Development  
+📦 BLoC • Clean Architecture • REST APIs  
