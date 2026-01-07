@@ -137,6 +137,7 @@ git clone https://github.com/<your-username>/neoassessment_flutter.git
 cd neoassessment_flutter
 flutter pub get
 flutter run
+```
 
 
 ### 📌 Future Enhancements
@@ -146,7 +147,6 @@ flutter run
 - Pagination and search
 - Offline caching
 - Admin dashboard charts
-```
 
 
 ### 🧑‍💻 Author
